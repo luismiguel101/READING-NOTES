@@ -1,29 +1,40 @@
-# Read06.md #
+# Aprendamos sobre Git #
 
-# 1. ¿Qué hacen los siguientes comandos? #
+A lo largo de esta experiencia iremos aprendiendo a trabajar de manera remota sobre tu repositorio, podremos realizarle cambios a los directorios, agregar y usar diversos comandos que nos permitan explorar las funciones y conocer a detalle que es lo que hace cada una. Esto tiene como finalidad crear una guía de apoyo para que el usuario sepa como ejecutar de manera eficiente los comandos dentro de la terminal y así lograr que su repositorio sea presenteado de la mejor manera. 
 
-- **PDW:** Muestra la ruta de la carpeta en la que te encuentras.
-- **Ls:** Muestra la lista de archivos que se encuentran dentro de la carpeta o directorio.
-- **Cd:** Se usa para cmabiar la ruta de los directorios.
-- **Mkdir:** Se usa para crear uno o mas archivos.
-- **Touch:** Permite crear un archivo dentro de un directorio vacio.
+# About this: #
+
+En este sitio podras encontrar una lista detallada de los comandos que podras utilizar para poder trabajar desde la terminal en Bash, y encontratas un paso a paso de como podras clonar tu repositorio desde GitHub y trabajarlo remotamente desde tu ordenador local, además el usuario podrá ganar experiencia y conocmientos del manejo de estas herramientas. 
+
+## Notas de lectura -  Code101 ##
+
+1. [Nota 1](101/read01.md)
+2. [Nota 2](101/read02.md)
+3. [Nota 3](101/read03.md)
+4. [Nota 4](101/read04.md)
+5. [Nota 5](101/read05.md)
+6. [Nota 6](101/read06.md)
+7. [Nota 7](101/read07.md)
+8. [Nota 8](101/read08.md)
+9. [Nota 9](101/read09.md)
+10. [Nota 10](101/read10.md)
 
 
-# 2. ¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos? (Los argumentos son instrucciones adicionales dadas a un comando). #
+## Notas de lectura - Code 201 ##
 
-- **cd projects:** Cambia el directorio actual a projects.
-- **mkdir new-project:** Crea un nuevo directorio llamado new-project dentro de projects.
-- **touch new-project/newfile.md:** Crea un archivo vacío llamado newfile.md dentro de new-project.
-- **cd ..:** Regresa al directorio principal (projects).
-- **ls projects/new-project:** Lista los archivos y carpetas dentro del directorio new-project ubicado en projects.
-
-# 3. ¿Qué comando usarías en la terminal para listar todos los archivos, incluidos los archivos ocultos, en un directorio de Linux o macOS? Explica qué significan los parámetros utilizados en el comando. #
-
-El comando que se usaría seria (ls -a), ¿Por qué?:
-
-el comando (ls) permite mostrar el contenido dentro de un directorio de trabajo actual.
-el comando (-a) muestra todos los archivos ocultos, por ejemplo: 
-*.config*
-*.bashrc*
-*.gitignor*
-
+1. [Nota 1](201/read01.md)
+2. [Nota 2](201/read02.md)
+3. [Nota 3](201/read03.md)
+4. [Nota 4](201/read04.md)
+5. [Nota 5](201/read05.md)
+6. [Nota 6](201/read06.md)
+7. [Nota 7](201/read07.md)
+8. [Nota 8](201/read08.md)
+9. [Nota 9](201/read09.md)
+10. [Nota 10](201/read10.md)
+11. [Nota 11](201/read11.md)
+12. [Nota 12](201/read12.md)
+13. [Nota 13](201/read13.md)
+14. [Nota 14](201/read14.md)
+15. [Nota 15](201/read15.md)
+16. [Nota 16](201/read16.md) 
