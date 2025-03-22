@@ -8,13 +8,13 @@ En este sitio podras encontrar una lista detallada de los comandos que podras ut
 
 ## Notas de lectura -  Code101 ##
 
-1. [Nota 1](101/read01.md)
-2. [Nota 2](101/read02.md)
-3. [Nota 3](101/read03.md)
-4. [Nota 4](101/read04.md)
-5. [Nota 5](101/read05.md)
-6. [Nota 6](101/read06.md)
-7. [Nota 7](101/read07.md)
+1. [Nota 1](101/read01.md.txt)
+2. [Nota 2](101/read02.md.txt)
+3. [Nota 3](101/read03.md.txt)
+4. [Nota 4](101/read04.md.txt)
+5. [Nota 5](101/read05.md.txt)
+6. [Nota 6](101/read06.md.txt)
+7. [Nota 7](101/read07.md.txt)
 8. [Nota 8](101/read08.md)
 9. [Nota 9](101/read09.md)
 10. [Nota 10](101/read10.md)
