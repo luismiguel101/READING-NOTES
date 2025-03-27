@@ -31,8 +31,6 @@ Arrow functions: const nombre = () => {}
 
 El bucle while se ejecutará mientras la condición especificada sea true. Puede ejecutarse infinitamente si no se modifica la condición dentro del bucle.
 
-Ejemplo:
-[ejemplo:]("C:\Users\Luis\Pictures\Screenshots\Captura de pantalla 2025-03-26 224104.png")
 
 En este caso, se ejecutará 5 veces (contador va de 0 a 4).
 
