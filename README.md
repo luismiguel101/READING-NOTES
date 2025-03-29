@@ -8,17 +8,20 @@ En este sitio podras encontrar una lista detallada de los comandos que podras ut
 
 ## Notas de lectura -  Code101 ##
 
-1. [Nota 1](101/read01.md.txt)
-2. [Nota 2](101/read02.md.txt)
-3. [Nota 3](101/read03.md.txt)
-4. [Nota 4](101/read04.md.txt)
-5. [Nota 5](101/read05.md.txt)
-6. [Nota 6](101/read06.md.txt)
-7. [Nota 7](101/read07.md.txt)
-8. [Nota 8](101/read08.md)
-9. [Nota 9](101/read09.md)
-10. [Nota 10](101/read10.md)
-11. [Nota 11](101/read11.md)
+
+| Nota | Tema |
+|------|------|
+| [Nota 1](101/read01.md.txt) | Desarrollo Web - Conceptos Básicos |
+| [Nota 2](101/read02.md.txt) | Introducción a HTML, CSS y JavaScript |
+| [Nota 3](101/read03.md.txt) | Listas HTML, Control de Flujo y Estructuras de Bucle en JS |
+| [Nota 4](101/read04.md.txt) | Enlaces HTML, Funciones en JS y Trabajo en Equipo |
+| [Nota 5](101/read05.md.txt) | Imágenes, Color y Texto en Diseño Web |
+| [Nota 6](101/read06.md.txt) | Objetos, DOM y Métodos JS Incorporados |
+| [Nota 7](101/read07.md.txt) | Programación Orientada a Objetos, Tablas HTML y Constructores JS |
+| [Nota 8](101/read08.md) | Diseño Web Adaptable con CSS |
+| [Nota 9](101/read09.md) | Formularios Web y Eventos JavaScript |
+| [Nota 10](101/read10.md) | Depuración y Manejo de Errores en JavaScript |
+| [Nota 11](101/read11.md) | Audio, Video e Imágenes en la Web |
 
 
 ## Notas de lectura - Code 201 ##
