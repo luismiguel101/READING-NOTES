@@ -18,6 +18,7 @@ En este sitio podras encontrar una lista detallada de los comandos que podras ut
 8. [Nota 8](101/read08.md)
 9. [Nota 9](101/read09.md)
 10. [Nota 10](101/read10.md)
+11. [Nota 11](101/read11.md)
 
 
 ## Notas de lectura - Code 201 ##
