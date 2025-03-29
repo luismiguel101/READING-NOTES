@@ -9,20 +9,21 @@ En este sitio podras encontrar una lista detallada de los comandos que podras ut
 ## Notas de lectura -  Code101 ##
 
 
+# Tabla de Contenido
+
 | Nota | Tema |
 |------|------|
 | [Nota 1](101/read01.md.txt) | Desarrollo Web - Conceptos Básicos |
 | [Nota 2](101/read02.md.txt) | Introducción a HTML, CSS y JavaScript |
-| [Nota 3](101/read03.md.txt) | Listas HTML, Control de Flujo y Estructuras de Bucle en JS |
-| [Nota 4](101/read04.md.txt) | Enlaces HTML, Funciones en JS y Trabajo en Equipo |
-| [Nota 5](101/read05.md.txt) | Imágenes, Color y Texto en Diseño Web |
-| [Nota 6](101/read06.md.txt) | Objetos, DOM y Métodos JS Incorporados |
-| [Nota 7](101/read07.md.txt) | Programación Orientada a Objetos, Tablas HTML y Constructores JS |
-| [Nota 8](101/read08.md) | Diseño Web Adaptable con CSS |
-| [Nota 9](101/read09.md) | Formularios Web y Eventos JavaScript |
-| [Nota 10](101/read10.md) | Depuración y Manejo de Errores en JavaScript |
-| [Nota 11](101/read11.md) | Audio, Video e Imágenes en la Web |
-
+| [Nota 3](101/read03.md.txt) | CSS |
+| [Nota 4](101/read04.md.txt) | Prompt engineerin|
+| [Nota 5](101/read05.md.txt) | SOBRE MI |
+| [Nota 6](101/read06.md.txt) | Terminal GITBASH |
+| [Nota 7](101/read07.md.txt) | Control de versiones GIT|
+| [Nota 8](101/read08.md) | Wireframes en diseño web |
+| [Nota 9](101/read09.md) | Fundamentos JavaScript |
+| [Nota 10](101/read10.md) |Control de flujo y fundamentos de JS |
+| [Nota 11](101/read11.md) | DOM & API |
 
 ## Notas de lectura - Code 201 ##
 
